@@ -1,6 +1,6 @@
 # hoisting-in-js
 
-#### hoisted mane upore declear korar agei lekhe felle error dbe ki na..
+## hoisted mane upore declear  na kore , age value boshai trpr declear krle error dbe ki na..
 
 
 
